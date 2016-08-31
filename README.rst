@@ -4,6 +4,8 @@ Travis Test
 
 Travis test project
 
+.. image:: https://travis-ci.org/ocelotl/travis_test.svg?branch=master
+   :target: https://travis-ci.org/ocelotl/travis_test
 
 Documentation
 =============
