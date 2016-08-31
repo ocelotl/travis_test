@@ -1,0 +1,11 @@
+{
+    "author": "Ocelotl",
+    "email": "ocelotl@ocelotl.net",
+    "repo_name": "travis_test",
+    "repo_url": "https://github.com/ocelotl/travis_test",
+    "doc_url": "https://travis_test.readthedocs.org/",
+    "project_name": "Travis Test",
+    "short_description": "Travis test project",
+    "year": "2016",
+    "version": "0.1.0"
+}
